@@ -28,6 +28,17 @@ public class School {
 		
 		
 		
+		if(stu2.name.contains("g"))
+		{
+			System.out.println("GEREKSIZ");
+		}
+		else
+		{
+			System.out.println("FAILED");
+		}
+		
+		
+		
 		
 		
 		
